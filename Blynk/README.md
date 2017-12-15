@@ -1,3 +1,7 @@
+**Circuit Diagram for the Project **
+
+[![Circuit Diagram](https://github.com/theultimateprasad/Smart-Gardening-System-using-IoT/blob/master/Blynk/ESP8266_Gardening.png)
+
 [![GitHub version](https://img.shields.io/github/release/blynkkk/blynk-library.svg)](https://github.com/blynkkk/blynk-library/releases/latest)
 [![GitHub download](https://img.shields.io/github/downloads/blynkkk/blynk-library/total.svg)](https://github.com/blynkkk/blynk-library/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/blynkkk/blynk-library.svg)](https://github.com/blynkkk/blynk-library/stargazers)
